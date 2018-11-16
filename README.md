@@ -1,4 +1,4 @@
-# Practica-07_wordpress
+# Practica-07-wordpress
 ###### Vamos a usar Vagrant para automatizar la creación de una infraestructura de pruebas donde se ejecutará WordPress.
 ###### La arquitectura y el conjunto de direcciones IPs que tendrán las máquinas virtales son:
 ###### + Un balanceador de carga con la IP: (192.168.33.10) 
