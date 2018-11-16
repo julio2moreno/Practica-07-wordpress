@@ -85,7 +85,7 @@ LABEL=clouding-rootfst  /   ext4    defaults    0 0
 ````
 
 
-## Creacion de los archivos ``provision`` donde configurar y crear todas las máquinas virtuales que hemos seleccionado en el ``Vagrantfile``.
+## Configuracion e instalacion de las máquinas virtuales.
 
 Dentro de la carpeta ``provision`` debemos de tener tres archivos.
 
